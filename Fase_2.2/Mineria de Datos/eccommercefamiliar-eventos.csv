@@ -1,0 +1,104 @@
+Date,Region,Country,Device_Type,Users,Total_Events,Revenue,Event_per_User,Engaged_Users,Sessions,Conversions,Unique_Users_Previous_Period,Total_Events_Previous_Period,Revenue_Previous_Period,Events_per_User_Previous_Period,Engaged_Users_Previous_Period,Sessions_Previous_Period,Conversions_Previous_Period
+2024-11-14,Santiago Metropolitan Region,Chile,mobile,page_view,13,48,0,3.4285714285714284,48,0,0,13,48,0,3.4285714285714284,48,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,mobile,session_start,13,0,0,0,15,0,0,13,0,0,0,15,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,mobile,first_visit,12,0,0,0,12,0,0,12,0,0,0,12,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,mobile,user_engagement,11,0,0,0,36,0,0,11,0,0,0,36,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,first_visit,6,0,0,0,6,0,0,6,0,0,0,6,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,page_view,6,57,0,6.333333333333333,57,0,0,6,57,0,6.333333333333333,57,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,session_start,6,0,0,0,9,0,0,6,0,0,0,9,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,desktop,page_view,5,95,0,13.571428571428571,95,0,0,5,95,0,13.571428571428571,95,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,desktop,scroll,5,0,0,0,18,0,0,5,0,0,0,18,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,desktop,user_engagement,5,0,0,0,66,0,0,5,0,0,0,66,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,form_start,5,0,0,0,15,0,0,5,0,0,0,15,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,form_submit,5,0,0,0,10,0,0,5,0,0,0,10,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,user_engagement,5,0,0,0,44,0,0,5,0,0,0,44,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,desktop,first_visit,4,0,0,0,4,0,0,4,0,0,0,4,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,desktop,session_start,4,0,0,0,6,0,0,4,0,0,0,6,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,add_to_cart,4,0,0,0,8,0,0,4,0,0,0,8,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,begin_checkout,4,0,0,0,5,0,0,4,0,0,0,5,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,purchase,4,0,40272.000169,0,4,10068.00004225,4,4,0,40272.000169,0,4,10068.00004225,4
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,view_item,4,0,0,0,13,0,0,4,0,0,0,13,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,desktop,page_view,4,12,0,1.7142857142857142,12,0,0,4,12,0,1.7142857142857142,12,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,desktop,session_start,4,0,0,0,8,0,0,4,0,0,0,8,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,desktop,user_engagement,4,0,0,0,6,0,0,4,0,0,0,6,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,mobile,scroll,4,0,0,0,6,0,0,4,0,0,0,6,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,mobile,view_item,4,0,0,0,9,0,0,4,0,0,0,9,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,desktop,form_start,3,0,0,0,15,0,0,3,0,0,0,15,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,desktop,form_submit,3,0,0,0,12,0,0,3,0,0,0,12,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,scroll,3,0,0,0,6,0,0,3,0,0,0,6,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,mobile,form_start,3,0,0,0,4,0,0,3,0,0,0,4,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,mobile,page_view,3,8,0,2.6666666666666665,8,0,0,3,8,0,2.6666666666666665,8,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,desktop,add_to_cart,2,0,0,0,6,0,0,2,0,0,0,6,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,desktop,begin_checkout,2,0,0,0,3,0,0,2,0,0,0,3,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,desktop,purchase,2,0,20005.999386,0,3,6668.666462,3,2,0,20005.999386,0,3,6668.666462,3
+2024-11-13,Santiago Metropolitan Region,Chile,desktop,view_item,2,0,0,0,18,0,0,2,0,0,0,18,0,0
+2024-11-14,Araucania,Chile,mobile,first_visit,2,0,0,0,2,0,0,2,0,0,0,2,0,0
+2024-11-14,Araucania,Chile,mobile,page_view,2,8,0,4,8,0,0,2,8,0,4,8,0,0
+2024-11-14,Araucania,Chile,mobile,scroll,2,0,0,0,2,0,0,2,0,0,0,2,0,0
+2024-11-14,Araucania,Chile,mobile,session_start,2,0,0,0,2,0,0,2,0,0,0,2,0,0
+2024-11-14,Araucania,Chile,mobile,user_engagement,2,0,0,0,9,0,0,2,0,0,0,9,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,desktop,first_visit,2,0,0,0,2,0,0,2,0,0,0,2,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,mobile,first_visit,2,0,0,0,2,0,0,2,0,0,0,2,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,mobile,session_start,2,0,0,0,2,0,0,2,0,0,0,2,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,mobile,user_engagement,2,0,0,0,6,0,0,2,0,0,0,6,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,desktop,first_visit,2,0,0,0,2,0,0,2,0,0,0,2,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,desktop,page_view,2,10,0,3.3333333333333335,10,0,0,2,10,0,3.3333333333333335,10,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,desktop,session_start,2,0,0,0,3,0,0,2,0,0,0,3,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,mobile,page_view,2,3,0,1.5,3,0,0,2,3,0,1.5,3,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,mobile,session_start,2,0,0,0,2,0,0,2,0,0,0,2,0,0
+2024-11-13,Santiago Metropolitan Region,Chile,mobile,select_content,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-14,Antofagasta,Chile,mobile,first_visit,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-14,Antofagasta,Chile,mobile,page_view,1,3,0,1.5,3,0,0,1,3,0,1.5,3,0,0
+2024-11-14,Antofagasta,Chile,mobile,scroll,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-14,Antofagasta,Chile,mobile,session_start,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-14,Antofagasta,Chile,mobile,user_engagement,1,0,0,0,3,0,0,1,0,0,0,3,0,0
+2024-11-14,Araucania,Chile,mobile,view_item,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-14,Bio Bio,Chile,mobile,first_visit,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-14,Bio Bio,Chile,mobile,page_view,1,2,0,2,2,0,0,1,2,0,2,2,0,0
+2024-11-14,Bio Bio,Chile,mobile,scroll,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-14,Bio Bio,Chile,mobile,session_start,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-14,Bio Bio,Chile,mobile,user_engagement,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-14,Coquimbo,Chile,mobile,first_visit,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-14,Coquimbo,Chile,mobile,page_view,1,3,0,3,3,0,0,1,3,0,3,3,0,0
+2024-11-14,Coquimbo,Chile,mobile,session_start,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-14,Coquimbo,Chile,mobile,user_engagement,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-14,Lima Province,Peru,mobile,first_visit,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-14,Lima Province,Peru,mobile,page_view,1,1,0,1,1,0,0,1,1,0,1,1,0,0
+2024-11-14,Lima Province,Peru,mobile,session_start,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,desktop,scroll,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,mobile,add_to_cart,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-14,Santiago Metropolitan Region,Chile,mobile,form_submit,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-15,Lima Province,Peru,mobile,page_view,1,1,0,1,1,0,0,1,1,0,1,1,0,0
+2024-11-15,Lima Province,Peru,mobile,session_start,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-15,Lima Province,Peru,mobile,user_engagement,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,mobile,add_to_cart,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,mobile,begin_checkout,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,mobile,form_start,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,mobile,form_submit,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,mobile,purchase,1,0,30989.99953,0,1,30989.99953,1,1,0,30989.99953,0,1,30989.99953,1
+2024-11-15,Santiago Metropolitan Region,Chile,mobile,view_item,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-16,Bio Bio,Chile,mobile,add_to_cart,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-16,Bio Bio,Chile,mobile,first_visit,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-16,Bio Bio,Chile,mobile,form_start,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-16,Bio Bio,Chile,mobile,form_submit,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-16,Bio Bio,Chile,mobile,page_view,1,6,0,3,6,0,0,1,6,0,3,6,0,0
+2024-11-16,Bio Bio,Chile,mobile,session_start,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-16,Bio Bio,Chile,mobile,user_engagement,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-16,Bio Bio,Chile,mobile,view_item,1,0,0,0,3,0,0,1,0,0,0,3,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,desktop,add_to_cart,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,desktop,begin_checkout,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,desktop,form_start,1,0,0,0,3,0,0,1,0,0,0,3,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,desktop,form_submit,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,desktop,purchase,1,0,26.000029,0,1,26.000029,1,1,0,26.000029,0,1,26.000029,1
+2024-11-16,Santiago Metropolitan Region,Chile,desktop,scroll,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,desktop,user_engagement,1,0,0,0,7,0,0,1,0,0,0,7,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,desktop,view_item,1,0,0,0,2,0,0,1,0,0,0,2,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,mobile,first_visit,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,mobile,scroll,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-16,Santiago Metropolitan Region,Chile,mobile,user_engagement,1,0,0,0,1,0,0,1,0,0,0,1,0,0
+2024-11-15,Araucania,Chile,mobile,page_view,0,1,0,1,1,0,0,0,1,0,1,1,0,0
+2024-11-15,Araucania,Chile,mobile,session_start,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2024-11-15,Araucania,Chile,mobile,view_item,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,desktop,page_view,0,1,0,1,1,0,0,0,1,0,1,1,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,desktop,session_start,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2024-11-15,Santiago Metropolitan Region,Chile,desktop,view_item,0,0,0,0,1,0,0,0,0,0,0,1,0,0
